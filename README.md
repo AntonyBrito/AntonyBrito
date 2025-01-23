@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Antony! 👋
 
-<!--
-**AntonyBrito/AntonyBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante técnico em Desenvolvimento de Sistemas no **SENAI** e apaixonado por tecnologia e inovação. 🚀
 
-Here are some ideas to get you started:
+## 🌟 Sobre mim:
+- 🎓 **Estudante Técnico:** Desenvolvimento de Sistemas no SENAI.
+- 💻 **Conhecimentos Técnicos:**
+  - JavaScript
+  - Python
+  - Java
+  - React
+  - SQL
+  - Design
+- ⚽ **Hobbies:**
+  - Jogar futebol
+  - Assistir séries
+  - Jogar games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/britoantony) <!-- Insira o link do seu perfil LinkedIn -->
+- [Portfólio](#) <!-- Insira o link do seu portfólio, caso tenha -->
+
+## 📈 Estatísticas do GitHub:
+![Antony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antony&show_icons=true&theme=radical)
+
+## 🛠️ Projetos Recentes:
+Confira meus repositórios para ver os projetos em que estou trabalhando! 😉
+
+---
+✨ *Este README é um reflexo da minha jornada de aprendizado e evolução no desenvolvimento de sistemas. Vamos criar algo incrível juntos!* ✨
