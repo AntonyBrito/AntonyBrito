@@ -11,10 +11,6 @@ Sou estudante técnico em Desenvolvimento de Sistemas no **SENAI** e apaixonado 
   - React
   - SQL
   - Design
-- ⚽ **Hobbies:**
-  - Jogar futebol
-  - Assistir séries
-  - Jogar games
 
 ## 🔗 Conecte-se comigo:
 - [LinkedIn](https://www.linkedin.com/in/britoantony) <!-- Insira o link do seu perfil LinkedIn -->
